@@ -1,4 +1,4 @@
-A port parrot's ```anonsurf``` for ubuntu
+A port of parrot's ```anonsurf``` for ubuntu
 
 Tested on ```Ubuntu 18.04.4 LTS```
 
